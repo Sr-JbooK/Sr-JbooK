@@ -18,11 +18,4 @@
 <a href="https://www.linkedin.com/in/josecarloscbs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
- 
-### Studying in this moment:
- [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=kofi&logoColor=white)](#) [![logo kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](#) 
-
-          
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100c08&height=120&section=footer"/>
